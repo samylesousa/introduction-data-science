@@ -8,4 +8,4 @@ All rights reserved to the developers and owners of **HarvardX CS109x - Introduc
 
 ### Summary
 
-[k-nearest neighbors](/exercise-simple-knn-regression)
+1. [k-nearest neighbors](/exercise-simple-knn-regression)
