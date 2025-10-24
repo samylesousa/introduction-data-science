@@ -9,3 +9,4 @@ All rights reserved to the developers and owners of **HarvardX CS109x - Introduc
 ### Summary
 
 1. [k-nearest neighbors](/exercise-simple-knn-regression)
+2. [multiple features](/exercise-multiple-features/)
